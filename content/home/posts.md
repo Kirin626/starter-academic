@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+[More in my blog...](https://www.baidu.com/)
