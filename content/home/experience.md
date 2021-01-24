@@ -42,4 +42,11 @@ experience:
     date_start: '2017-09-01'
     date_end: '2021-07-01'
     description: Major in statistics.
+    
+  - title: Middle school student
+    company: NO.2 Middle School of Shijiazhuang
+    company_url: 'http://www.sjzez.com/'
+    location: Shijiazhuang
+    date_start: '2015-09-01'
+    date_end: '2017-07-01'
 ---
