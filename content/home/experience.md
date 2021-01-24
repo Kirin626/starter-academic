@@ -36,7 +36,7 @@ experience:
 #        * Deploying
         
   - title: Undergraduate student
-    company: University of Science and Technology of China
+    company: University of Science and Technology of China (USTC)
     company_url: 'https://www.ustc.edu.cn/'
     location: Hefei
     date_start: '2017-09-01'
