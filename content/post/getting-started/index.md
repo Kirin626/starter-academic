@@ -44,4 +44,4 @@ categories:
 
 以上是YAML语言，以下就是熟悉的Markdown了，好耶！
 
-['Elaina'](https://i0.hdslb.com/bfs/article/3a18772db8654dc49ad31fb41ce6a4df5706174e.jpg@1320w_1334h.webp)
+!['Elaina'](https://i0.hdslb.com/bfs/article/3a18772db8654dc49ad31fb41ce6a4df5706174e.jpg@1320w_1334h.webp)
