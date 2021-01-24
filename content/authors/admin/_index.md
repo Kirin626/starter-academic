@@ -19,7 +19,7 @@ bio: My research interests include social network analysis and statistical machi
 # Interests to show in About widget
 interests:
 - Social network analysis
-- Statistics machine learning
+- Statistical machine learning
 
 # Education to show in About widget
 education:
