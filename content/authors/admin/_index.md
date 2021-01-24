@@ -27,6 +27,11 @@ education:
   - course: BSc in Statistics
     institution: University of Science and Technology of China
     year: 2021
+ 
+# Skills to show in About widget
+skills:
+  - Statistics
+  - R
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
