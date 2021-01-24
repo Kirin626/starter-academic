@@ -56,4 +56,4 @@ highlight_name: true
 
 Qilin Li is a senior student of statistics at the University of Science and Technology of China. His research interests include social network ananlysis and statistical machine learning. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Qilin Li.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Qilin%20Li.pdf" "newtab" >}}resumé{{< /staticref >}}.
