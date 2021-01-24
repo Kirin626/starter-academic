@@ -32,10 +32,10 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  [content.archive]
-    enable = true
-    text = "See all blog posts"
-    link = "https://qilinli-blog.netlify.app/"
+  archive:
+    enable: true
+    text: "See all blog posts"
+    link: "https://qilinli-blog.netlify.app/"
 
 design:
   # Choose a view for the listings:
