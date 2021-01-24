@@ -17,6 +17,8 @@ content:
   page_type: post
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
   # Filter on criteria
   filters:
     author: ""
@@ -38,6 +40,9 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["0", "0", "20px", "0"]
 ---
 
 [More in my blog...](https://www.baidu.com/)
