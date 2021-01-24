@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description: 
   icon: basketball-ball
   icon_pack: fas
   name: basketball
