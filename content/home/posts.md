@@ -32,6 +32,8 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive:
+    enable = false
 
 design:
   # Choose a view for the listings:
@@ -42,4 +44,4 @@ design:
   view: 2
 ---
 
-[More in my blog...](https://www.baidu.com/)
+
