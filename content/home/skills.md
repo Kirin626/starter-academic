@@ -27,7 +27,7 @@ feature:
 - description: 
   icon: basketball-ball
   icon_pack: fas
-  name: basketball
+  name: Basketball
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
